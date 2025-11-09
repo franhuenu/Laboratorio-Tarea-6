@@ -41,7 +41,7 @@ function App() {
 
       {/* Pie de página con el año actual y el modo activo */}
       <footer className="footer">
-        © {new Date().getFullYear()} El Artesano — Modo {modoDia ? 'Día' : 'Noche'}
+        © {new Date().getFullYear()} La más bacan disdes.yolo XD — Modo {modoDia ? 'Día' : 'Noche'}
       </footer>
     </div>
   );
