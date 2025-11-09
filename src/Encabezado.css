@@ -1,0 +1,19 @@
+.encabezado {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.encabezado h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.encabezado p {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+
+
+
+

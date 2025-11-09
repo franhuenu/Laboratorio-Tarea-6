@@ -1,0 +1,21 @@
+.contenedor {
+  width: 60%;
+  max-width: 600px;
+  padding: 25px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
+
+.contenedor.dia {
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.contenedor.noche {
+  background-color: #1f1f1f;
+  box-shadow: 0 4px 10px rgba(255,255,255,0.05);
+}
+
+
+
